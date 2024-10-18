@@ -19,8 +19,9 @@ ZSH_THEME="THEMENAME"
 
 
 ### slavic-cat
-![slaviccat](https://raw.githubusercontent.com/jyoungblood/omz-themez/refs/heads/main/screenshots/demo-slaviccat.png)
 Long-awaited OMZ version of [my favorite fish shell theme](https://github.com/yangwao/omf-theme-slavic-cat)
+![slaviccat](https://raw.githubusercontent.com/jyoungblood/omz-themez/refs/heads/main/screenshots/demo-slaviccat.png)
+
 
 
 
