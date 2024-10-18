@@ -99,5 +99,5 @@ add-zsh-hook precmd wd_precmd
 
 PROMPT=$'
 %{$limegreen%}%n${PR_RST} at %{$yellow%}%m${PR_RST} in %{$purple%}%~${PR_RST} $vcs_info_msg_0_$(virtualenv_info)
-⛧ '
+› '
 
